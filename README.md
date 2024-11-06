@@ -12,5 +12,5 @@ I'm a passionate front-end developer with experience in building scalable web ap
 
 ## 🔗 Connect with me
 
-- [LinkedIn](www.linkedin.com/in/chaitali-v-h)
-- [Email](chaitali.v.h@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/chaitali-v-h/)
+- [Email](mailto:chaitali.v.h@gmail.com)
